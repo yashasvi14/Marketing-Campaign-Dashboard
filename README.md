@@ -4,6 +4,8 @@ This repository contains Tableau visualizations for analyzing customer data from
 
 ## Dashboard
 
+[Take to Dashboard on Tableau Public](https://public.tableau.com/app/profile/yashasvi5850/viz/MarketingCampaignDashboard_17308191097400/Dashboard1)
+
 ![Dashboard Screenshot](/Dashboard.png)
 
 ## Visualizations
