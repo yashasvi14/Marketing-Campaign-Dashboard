@@ -2,6 +2,10 @@
 
 This repository contains Tableau visualizations for analyzing customer data from the iFood dataset available on kaggle at [Marketing Analytics](https://www.kaggle.com/datasets/jackdaoud/marketing-data). The visualizations provide insights into customer behavior, marketing campaign effectiveness, and spending patterns.
 
+## Dashboard
+
+![Dashboard Screenshot](/Dashboard.png)
+
 ## Visualizations
 
 ### 1. Customer Segmentation by Age and Income
@@ -25,5 +29,7 @@ This repository contains Tableau visualizations for analyzing customer data from
 ## Usage
 
 To explore these visualizations, download the Tableau workbook from this repository and open it using Tableau Desktop. You can interact with each visualization to gain insights into customer behavior and marketing strategies.
+
+
 
 
