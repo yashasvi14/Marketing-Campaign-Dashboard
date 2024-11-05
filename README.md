@@ -19,6 +19,9 @@ This repository contains Tableau visualizations for analyzing customer data from
 ### 5. Web vs Store Purchases 
 - **Description**: A dual-axis scatter plot comparing web purchases versus store purchases over time.
 
+### 6. Marital Status Pie Chart
+- **Description**: A pie chart representing the distribution of marital statuses among customers.
+
 ## Usage
 
 To explore these visualizations, download the Tableau workbook from this repository and open it using Tableau Desktop. You can interact with each visualization to gain insights into customer behavior and marketing strategies.
